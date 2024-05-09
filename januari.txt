@@ -1,0 +1,8 @@
+Daftar Pemasukan:
+1. Gaji 25000000
+TOTAL PEMASUKAN: 25000000
+_________________________
+Daftar Pengeluaran:
+TOTAL PENGELUARAN: 0
+_________________________
+SALDO : 25000000
